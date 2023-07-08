@@ -7,10 +7,10 @@ public class MainActivity extends FlutterActivity {
 }
 
 
-// package co.appbrewery.bmicalculator;
+package co.appbrewery.bmicalculator;
 
-// import io.flutter.embedding.android.FlutterActivity;
+import io.flutter.embedding.android.FlutterActivity;
 
-// public class MainActivity extends FlutterActivity {
+public class MainActivity extends FlutterActivity {
 
-// }
+}
